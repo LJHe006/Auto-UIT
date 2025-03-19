@@ -12,7 +12,7 @@
 
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/XXXXXX/0.jpg)](https://anonymous.4open.science/r/Auto-UIT-2D87/video/demo.mp4)
+[![Watch the video]()](https://anonymous.4open.science/r/Auto-UIT-2D87/video/demo.mp4)
 
 
 
@@ -51,7 +51,7 @@ Additionally, we present the **Auto-UIT field deployment** and real-world **UAV 
   > **🔹 Note:**  
   >
   > **All geographic information has been masked. All coordinate values are relative and do not represent any real-world locations.**  
-
+  > The 3D bounding box of the inspection target and the ground truth trajectory of the UAV will be released upon the paper's acceptance.
 ---
 
 ### 
